@@ -1,0 +1,2 @@
+name=生成工具脚本模板
+type=module

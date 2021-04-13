@@ -1,0 +1,2 @@
+name=生成JPA实体
+type=module

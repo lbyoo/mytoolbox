@@ -1,0 +1,2 @@
+name=dos2unix
+type=module

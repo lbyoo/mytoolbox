@@ -16,7 +16,7 @@ def main():
 
 def work(line,fo = None):
     s = line.strip("\n")
-    tmp = "ln -s /system/app/lib/{0} /opt/v2x/lib/{0}\n".format(s)
+    tmp = "git add {0}".format(s)
     if fo:
         fo.write(tmp)
 

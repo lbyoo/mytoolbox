@@ -1,0 +1,2 @@
+name=JSON-格式化
+type=module
